@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  Cola.cpp
+  Nodo.cpp
+  Pila.cpp
+  ProyectoGasolinera_1170419_DeLeonChang.cpp
+C:\Users\ZeroJChang\Desktop\Proyecto\ProyectoGasolinera_1170419_DeLeonChang\ProyectoGasolinera_1170419_DeLeonChang\ProyectoGasolinera_1170419_DeLeonChang.cpp(85,21): warning C4244:  '=': conversión de 'double' a 'int'; posible pérdida de datos
+  Generando código...
+C:\Users\ZeroJChang\Desktop\Proyecto\ProyectoGasolinera_1170419_DeLeonChang\ProyectoGasolinera_1170419_DeLeonChang\ProyectoGasolinera_1170419_DeLeonChang.cpp(298,21): warning C4244:  '=': conversión de 'double' a 'int'; posible pérdida de datos
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ProyectoGasolinera_1170419_DeLeonChang.vcxproj -> C:\Users\ZeroJChang\Desktop\Proyecto\ProyectoGasolinera_1170419_DeLeonChang\Debug\ProyectoGasolinera_1170419_DeLeonChang.exe
